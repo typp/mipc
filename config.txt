@@ -1,0 +1,10 @@
+## CONFIG ##
+
+## options:
+# - map_size : 10 -> 50
+# - nb_team : 2 -> 4
+# - max_team_players : 2 -> (map_size - 1)
+
+map_size=100
+nb_team=4
+max_team_players=99

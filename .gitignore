@@ -1,0 +1,9 @@
+*.o
+error
+*.out
+*~
+*\#
+.*.swp
+lemipc
+lemipc_aff
+.vimrc
